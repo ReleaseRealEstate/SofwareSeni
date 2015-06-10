@@ -66,7 +66,7 @@ header, nav, section, article, figure, aside, footer {display: block;}
 
 <div id="container">
 <header id="page-header">
-<h1>Release Real Estate Agent</h1>
+<h1>Release Real Estate Agent<img src="http://static.wixstatic.com/media/4107e8_3c87445735d948cfb0e1e47229b0f682.png?dn=logo.png" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" /></h1>
 <nav id="main-navigation">
 <ul>
 <li class="current"><a href="#">Home</a></li>
