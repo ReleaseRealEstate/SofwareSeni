@@ -69,8 +69,7 @@ header, nav, section, article, figure, aside, footer {display: block;}
 <h1><img src="http://static.wixstatic.com/media/4107e8_3c87445735d948cfb0e1e47229b0f682.png?dn=logo.png" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />Real Estate Agent</h1>
 <nav id="main-navigation">
 <ul>
-<li class="current"><a href="#<img src="http://static.wixstatic.com/media/4107e8_5ae3ee06b9554bdd86e48d22465ac3d9.jpg?dn=RR_3.jpg" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
- >Home</a></li>
+<li class="current"><a href="#<img src="http://static.wixstatic.com/media/4107e8_d344c773231344dca72b4cd1f2451a51.jpg?dn=RR4.jpg" />Home</a></li>
 <li style="color: red;"><a href="#"><img src="http://static.wixstatic.com/media/4107e8_a712f10d3a17403cb89f64f57ba42822.jpg?dn=img-2.jpg" >About</a></li>
 <li><a href="#"><img src="http://static.wixstatic.com/media/4107e8_eb9cb06cbe3f4524b2eaf46a855d9861.jpg?dn=img-1.jpg"Menu</a></li>
 <li><a href="#"><img src="http://static.wixstatic.com/media/4107e8_86b1bb81881c43ecbe185dde3c3ee19f.jpg?dn=img-3.jpg"/>Portfolio</a></li>
