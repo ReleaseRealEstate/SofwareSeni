@@ -66,14 +66,13 @@ header, nav, section, article, figure, aside, footer {display: block;}
 
 <div id="container">
 <header id="page-header">
-<h1>Release Real Estate Agent<img src="http://static.wixstatic.com/media/4107e8_3c87445735d948cfb0e1e47229b0f682.png?dn=logo.png" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" /></h1>
+<h1><img src="http://static.wixstatic.com/media/4107e8_3c87445735d948cfb0e1e47229b0f682.png?dn=logo.png" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />Release Real Estate Agent</h1>
 <nav id="main-navigation">
 <ul>
-<li class="current"><a href="#">Home</a></li>
+<li class="current"><a href="#"><img src="http://static.wixstatic.com/media/4107e8_eb9cb06cbe3f4524b2eaf46a855d9861.jpg?dn=img-1.jpg"Home</a></li>
 <li style="color: red;"><a href="#">About</a></li>
 <li><a href="#">Menu</a></li>
 <li><a href="#">Portfolio</a></li>
-<img src="http://static.wixstatic.com/media/4107e8_3c87445735d948cfb0e1e47229b0f682.png?dn=logo.png" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
 <img src="http://static.wixstatic.com/media/4107e8_d6b910fbc5e341dbae80f34c7fd954c1.png?dn=bath.png" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
 <img src="http://static.wixstatic.com/media/4107e8_863cdbacd76041579e92baabf1beb5a0.png?dn=bed.png" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
 <img src="http://static.wixstatic.com/media/4107e8_96d62d9f1cae400bbcdddea27a0fb37c.jpg?dn=slider-1.jpg" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
