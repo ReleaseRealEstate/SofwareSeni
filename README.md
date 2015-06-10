@@ -8,7 +8,7 @@
 
 <div id="container">
 <header id="page-header">
-<h1><img src="http://static.wixstatic.com/media/4107e8_3c87445735d948cfb0e1e47229b0f682.png?dn=logo.png" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />Real Estate Agent</h1>
+<h1><img src="http://static.wixstatic.com/media/4107e8_3c87445735d948cfb0e1e47229b0f682.png?dn=logo.png" style="border:4px solid #000" alt="Gambar Avril" width="80" height="50" />Real Estate Agent</h1>
 <nav id="main-navigation">
 <ul>
 <li class="current"><a href="#"><img src="http://static.wixstatic.com/media/4107e8_9d243b6cd0a046b883503518350428fe.jpg?dn=RI_1.jpg"Home</a></li>
