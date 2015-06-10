@@ -1,5 +1,5 @@
 # SofwareSeni
-<p style="background-color:aqua">Paragraf dengan background aqua</p>
+<p style="background-color:aqua"></p>
 </body></html>
 <body class="home">
 
