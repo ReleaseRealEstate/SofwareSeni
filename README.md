@@ -1,8 +1,5 @@
 # SofwareSeni
-<html>
-<head></head>
-<body style="http://static.wixstatic.com/media/4107e8_a292f4f925b843949134c908716a01fc.jpg?dn=home_3.jpg">
-<h1></h1>
+<p style="background-color:aqua">Paragraf dengan background aqua</p>
 </body></html>
 <body class="home">
 
