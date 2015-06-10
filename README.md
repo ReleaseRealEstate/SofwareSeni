@@ -70,6 +70,7 @@ header, nav, section, article, figure, aside, footer {display: block;}
 <nav id="main-navigation">
 <ul>
 <li class="current"><a href="#"><img src="http://static.wixstatic.com/media/4107e8_9d243b6cd0a046b883503518350428fe.jpg?dn=RI_1.jpg"Home</a></li>
+
 <li class="current"><a href="#"><img src="img src="http://static.wixstatic.com/media/4107e8_5d8ca815181641a48db3361082967a6b.jpg?dn=RI_2.jpg"About</a></li>
 <li><a href="#"><img src="http://static.wixstatic.com/media/4107e8_eb9cb06cbe3f4524b2eaf46a855d9861.jpg?dn=img-1.jpg"Menu</a></li>
 <li><a href="#"><img src="http://static.wixstatic.com/media/4107e8_86b1bb81881c43ecbe185dde3c3ee19f.jpg?dn=img-3.jpg"/>Portfolio</a></li>
