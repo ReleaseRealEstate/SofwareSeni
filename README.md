@@ -73,4 +73,4 @@ header, nav, section, article, figure, aside, footer {display: block;}
 <li style="color: red;"><a href="#">About</a></li>
 <li><a href="#">Menu</a></li>
 <li><a href="#">Portfolio</a></li>
-
+<img src="http://static.wixstatic.com/media/4107e8_5493a2d3559d4714bdd2a691e503a47a.jpg?dn=image_listing2.jpg" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
