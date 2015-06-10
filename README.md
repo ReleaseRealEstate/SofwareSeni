@@ -78,4 +78,7 @@ header, nav, section, article, figure, aside, footer {display: block;}
 <img src="http://static.wixstatic.com/media/4107e8_863cdbacd76041579e92baabf1beb5a0.png?dn=bed.png" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
 <img src="http://static.wixstatic.com/media/4107e8_96d62d9f1cae400bbcdddea27a0fb37c.jpg?dn=slider-1.jpg" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
 <img src=http://static.wixstatic.com/media/4107e8_80b19d06631342148e4033e7e8571056.png?dn=sticker_new.png" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
-
+<img src="http://static.wixstatic.com/media/4107e8_eb9cb06cbe3f4524b2eaf46a855d9861.jpg?dn=img-1.jpg" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
+<img src="http://static.wixstatic.com/media/4107e8_a712f10d3a17403cb89f64f57ba42822.jpg?dn=img-2.jpg" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
+<img src="http://static.wixstatic.com/media/4107e8_86b1bb81881c43ecbe185dde3c3ee19f.jpg?dn=img-3.jpg" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
+<img src="http://static.wixstatic.com/media/4107e8_79a480206f96467db4a40735271f6d39.jpg?dn=img-4.jpg" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
