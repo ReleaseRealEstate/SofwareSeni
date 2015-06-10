@@ -74,3 +74,4 @@ header, nav, section, article, figure, aside, footer {display: block;}
 <li><a href="#">Menu</a></li>
 <li><a href="#">Portfolio</a></li>
 
+<img src="Dell2" alt="teks alternatif" width="lebar" height="tinggi" />
