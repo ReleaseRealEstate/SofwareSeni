@@ -69,7 +69,7 @@ header, nav, section, article, figure, aside, footer {display: block;}
 <h1><img src="http://static.wixstatic.com/media/4107e8_3c87445735d948cfb0e1e47229b0f682.png?dn=logo.png" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />Release Real Estate Agent</h1>
 <nav id="main-navigation">
 <ul>
-<li class="current"><a href="#"><img src="http://static.wixstatic.com/media/4107e8_eb9cb06cbe3f4524b2eaf46a855d9861.jpg?dn=img-1.jpg"Home</a></li>
+<li class="current"><a href="#"><img src="http://static.wixstatic.com/media/4107e8_eb9cb06cbe3f4524b2eaf46a855d9861.jpg?dn=img-1.jpg"<img src=http://static.wixstatic.com/media/4107e8_80b19d06631342148e4033e7e8571056.png?dn=sticker_new.png" Home</a></li>
 <li style="color: red;"><a href="#">About</a></li>
 <li><a href="#">Menu</a></li>
 <li><a href="#">Portfolio</a></li>
