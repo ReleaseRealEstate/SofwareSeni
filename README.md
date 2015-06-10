@@ -1,6 +1,4 @@
 # SofwareSeni
-<p style="background-color:rgb(127,255,212)">Warna background menggunakan kode RGB</p>
-
 <p style="background-color:aqua"></p>
 </body></html>
 <body class="home">
