@@ -74,4 +74,4 @@ header, nav, section, article, figure, aside, footer {display: block;}
 <li><a href="#">Menu</a></li>
 <li><a href="#">Portfolio</a></li>
 
-<img src="https://www.google.com/search?biw=1366&bih=657&noj=1&tbm=isch&q=simple+house&revid=1101873248&sa=X&ved=0CCUQ1QIoAmoVChMI8qf0pq-ExgIVhny8Ch2v1w0V&dpr=1#imgrc=Rz3pCT0FczLhAM%253A%3B7TFfuMnKMsZIhM%3Bhttp%253A%252F%252Fkuaibozz.com%252Fwp-content%252Fuploads%252F2015%252F04%252Fsimple-house-awesome-decoration-2-on-modern-simple-home-design.jpg%3Bhttp%253A%252F%252Fkuaibozz.com%252Fsimple-house%252F%3B638%3B480" alt="teks alternatif" width="lebar" height="tinggi" />
+<img src="http://htmlcssguides.com/images/gambar-avril.jpg" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
