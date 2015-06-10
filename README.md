@@ -74,4 +74,3 @@ header, nav, section, article, figure, aside, footer {display: block;}
 <li><a href="#">Menu</a></li>
 <li><a href="#">Portfolio</a></li>
 
-<img src="http://htmlcssguides.com/images/gambar-avril.jpg" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
