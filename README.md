@@ -85,5 +85,5 @@ header, nav, section, article, figure, aside, footer {display: block;}
 <html>
 <head></head>
 <body style="background-image:url(background.jpg)">
-<h1>Contoh membuat background gambar dengan atribut style background-image.</h1>
+
 </body></html>
