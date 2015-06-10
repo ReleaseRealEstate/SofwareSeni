@@ -76,6 +76,6 @@ header, nav, section, article, figure, aside, footer {display: block;}
 <li class="current"><a href="#"><img src="http://static.wixstatic.com/media/4107e8_17d66e72e37c482696061afad3fdce15.jpg?dn=RI_3.jpgg"Home</a></li>
 <html>
 <head></head>
-<body style="background-image:url(background.jpg)">
+<body style="http://static.wixstatic.com/media/4107e8_43a53ecde0f24bb69461fe36d2313d72.jpg?dn=home_5.jpg">
 </body></html>
 
