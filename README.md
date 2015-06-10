@@ -85,5 +85,6 @@ header, nav, section, article, figure, aside, footer {display: block;}
 <html>
 <head></head>
 <body style="background-image:url(background.jpg)">
-
 </body></html>
+<img src="http://static.wixstatic.com/media/4107e8_f7a3ffb135a94d3d89e6b0748af5a983.jpg?dn=mock-up-mobile.jpg" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
+
