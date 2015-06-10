@@ -72,8 +72,8 @@ header, nav, section, article, figure, aside, footer {display: block;}
 <li class="current"><a href="#"><img src="http://static.wixstatic.com/media/4107e8_9d243b6cd0a046b883503518350428fe.jpg?dn=RI_1.jpg"Home</a></li>
 <li class="current"><a href="#"><img src="http://static.wixstatic.com/media/4107e8_5d8ca815181641a48db3361082967a6b.jpg?dn=RI_2.jpg"Home</a></li>
 <li class="current"><a href="#"><img src="http://static.wixstatic.com/media/4107e8_17d66e72e37c482696061afad3fdce15.jpg?dn=RI_3.jpgg"Home</a></li>
-<li><a href="#"><img src="http://static.wixstatic.com/media/4107e8_eb9cb06cbe3f4524b2eaf46a855d9861.jpg?dn=img-1.jpg"Menu</a></li>
-<li><a href="#"><img src="http://static.wixstatic.com/media/4107e8_86b1bb81881c43ecbe185dde3c3ee19f.jpg?dn=img-3.jpg"/>Portfolio</a></li>
+<li class="current"><a href="#"><img src="http://static.wixstatic.com/media/4107e8_17d66e72e37c482696061afad3fdce15.jpg?dn=RI_3.jpgg"Home</a></li>
+<li class="current"><a href="#"><img src="http://static.wixstatic.com/media/4107e8_17d66e72e37c482696061afad3fdce15.jpg?dn=RI_3.jpgg"Home</a></li>
 <img src="http://static.wixstatic.com/media/4107e8_d6b910fbc5e341dbae80f34c7fd954c1.png?dn=bath.png" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
 <img src="http://static.wixstatic.com/media/4107e8_863cdbacd76041579e92baabf1beb5a0.png?dn=bed.png" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
 <img src="http://static.wixstatic.com/media/4107e8_96d62d9f1cae400bbcdddea27a0fb37c.jpg?dn=slider-1.jpg" style="border:4px solid #000" alt="Gambar Avril" width="100" height="100" />
